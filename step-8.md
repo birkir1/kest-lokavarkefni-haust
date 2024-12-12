@@ -3,7 +3,7 @@
 sudo chmod 700 /home/*
 ```
 ```
-sudo chown -R :IT /home/*
+sudo chown -R :tolvudeild /home/*
 ```
 ```
 sudo chmod -R 770 /home/*
